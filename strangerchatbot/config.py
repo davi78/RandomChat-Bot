@@ -1,2 +1,2 @@
-ID_ADMIN = "changeme"
-TOKEN = "past here your token"
+ID_ADMIN = "1083846126"
+TOKEN = "1775524984:AAEatsovwAKRqFs0GJxEoX1tbnnJqlIGlCY"
